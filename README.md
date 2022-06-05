@@ -1,2 +1,3 @@
 # Devops-Engineer
-Learn this methodolgy
+Learn this method!
+DevOps Learning
